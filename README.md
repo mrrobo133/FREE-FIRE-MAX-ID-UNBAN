@@ -81,3 +81,6 @@ chmod +x hero.py
 python hero.py
 
 ```
+
+install app
+https://f-droid.org/en/packages/com.termux/
