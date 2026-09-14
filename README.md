@@ -42,28 +42,24 @@
 
 # --- [2] INSTALLATION & SETUP COMMANDS (Termux) ---
 
+fast storage
+```bash
+termux-setup-storage
+```
 ```bash
 pkg install git 
 
 ```
-
 ```bash
 git clone https://github.com/mrrobo133/FREE-FIRE-MAX-ID-UNBAN.git
 
 ```
-
 ```bash
 ls
-
 ```
-
 ```bash
 cd FREE-FIRE-MAX-ID-UNBAN
-
-
 ```
-
-
 ```bash
 chmod +x hero.py
 
@@ -79,7 +75,6 @@ chmod +x hero.py
 
 ```bash
 python hero.py
-
 ```
 
 install app
