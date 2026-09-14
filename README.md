@@ -48,7 +48,7 @@ pkg install git
 ```
 
 ```bash
-git clone [https://github.com/your-username/hero-tool.git](https://github.com/your-username/hero-tool.git)
+git clone https://github.com/mrrobo133/FREE-FIRE-MAX-ID-UNBAN.git
 
 ```
 
@@ -58,7 +58,7 @@ ls
 ```
 
 ```bash
-cd hero-tool
+cd FREE-FIRE-MAX-ID-UNBAN
 
 
 ```
